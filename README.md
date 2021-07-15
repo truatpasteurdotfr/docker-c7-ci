@@ -7,3 +7,4 @@ Tru <tru@pasteur.fr>
 github mirror created at https://github.com/truatpasteurdotfr/docker-c7-ci
 
 github actions is now building docker image available at `ghcr.io/truatpasteurdotfr/docker-c7-ci:main`
+(but within the "free" plan limits listed at https://github.com/features/packages#pricing)
